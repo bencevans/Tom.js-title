@@ -1,0 +1,14 @@
+{
+  "name": "Tom.js-title",
+  "repo": "bencevans/Tom.js-title",
+  "description": "Add ▶ to title when playing",
+  "version": "0.0.1",
+  "keywords": ["tom", "music", "play"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
